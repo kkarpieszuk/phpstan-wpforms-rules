@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpStanCustomRules;
+namespace PhpStanWpformsRules;
 
 use PHPStan\Reflection\ReflectionProvider;
 use PhpParser\Node;

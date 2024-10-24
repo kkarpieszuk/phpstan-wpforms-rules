@@ -15,9 +15,6 @@
         "php": "^7.0 || ^8.0",
         "phpstan/phpstan": "^1.0"
     },
-    "require-dev": {
-        "phpunit/phpunit": "^9.5"
-    },
     "autoload": {
         "psr-4": {
             "PhpStanWpformsRules\\": "src/"
