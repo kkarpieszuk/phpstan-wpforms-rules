@@ -1,0 +1,5 @@
+services:
+    -
+        class: PhpStanWpformsRules\DisallowArrayMergeInLoopsRule
+        tags:
+            - phpstan.rules.rule
