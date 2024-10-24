@@ -13,7 +13,7 @@ composer require --dev kkarpieszuk/phpstan-wpforms-rules
 You cna also install it directly from GitHub:
 
 ```bash
-composer require --dev kkarpieszuk/phpstan-wpforms-rules:dev-main
+composer require --dev kkarpieszuk/phpstan-wpforms-rules:main
 ```
 
 ## Usage

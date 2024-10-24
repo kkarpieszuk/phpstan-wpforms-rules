@@ -3,6 +3,8 @@
     "description": "PHPStan rules to satisfy WPForms code performance and bugs-avoiding standards",
     "type": "phpstan-extension",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Konrad Karpieszuk",
